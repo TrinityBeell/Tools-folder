@@ -1,0 +1,33 @@
+---
+title: "TLB_Tools_Fall2024"
+author: "Trinity Beell"
+format: html
+editor: visual
+---
+
+#### 28 August 2024
+
+------------------------------------------------------------------------
+
+Find area of a circle with radius 5 cm.
+
+Formula: ¶ \* r\^2
+
+where r is the radius.
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![](tools.png)
+
+A scientist stands holding a green liquid in an Erlenmeyer flask. She bears more weight on her left hip and has a hand in one pocket, suggesting a casual demeanor.
+
+------------------------------------------------------------------------
