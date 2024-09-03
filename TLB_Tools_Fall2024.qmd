@@ -31,3 +31,23 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 A scientist stands holding a green liquid in an Erlenmeyer flask. She bears more weight on her left hip and has a hand in one pocket, suggesting a casual demeanor.
 
 ------------------------------------------------------------------------
+
+#### 03 September 2024
+
+------------------------------------------------------------------------
+
+My research is on Influenza A zoonotic and reverse zoonotic transmission. One of the most groundbreaking papers in the field that comes to mind is:
+
+Smith, W., Andrewes, C. H., & Laidlaw, P. P. (1933). A virus obtained from influenza patients. *The Lancet*, *222*(5732), 66-68. https://doi.org/10.1016/S0140-6736(00)78541-2
+
+This paper documents the first time Influenza A was identified and isolated from human patients. This work proved that the disease was caused by a virus and not bacteria as previously hypothesized. This groundbreaking work paved the way for the production of vaccines, antiviral therapies, etc.
+
+The most disruptive paper in the last 5-10 years was:
+
+Garten, R. J., Davis, C. T., Russell, C. A., Shu, B., Lindstrom, S., Balish, A., \... & Shaw, M. W. (2009). Emergence of a novel swine-origin influenza A (H1N1) virus in humans. *Science*, *325*(5937), 197-201. https://doi.org/10.1126/science.1176225
+
+This paper was the first to document the specific triple reassortment event in influenza which led to the 2009 H1N1 pandemic. At the time it was a novel strain that included, swine, avian, and human genetic components.
+
+Despite the compelling evidence presented in Park et al. 2023, I do not feel that the nature of virology research as a whole has been less disruptive in more recent years. In the aftermath of the COVID-19 pandemic, there is an emphasis on researching viruses with zoonotic transmission potential. There is an increasing presence (and necessity) of novel technologies and paradigm-shifting work. Examples like mRNA vaccines, viral vector vaccines, and the use of CRISPR-Cas9 for viral genome editing come to mind.
+
+------------------------------------------------------------------------
