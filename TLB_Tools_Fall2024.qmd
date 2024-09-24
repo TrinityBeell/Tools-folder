@@ -80,3 +80,19 @@ When responding to reviewers, I would always maintain professionalism and respec
 The peer review process is a valuable opportunity. Whether or not I agree with every piece of feedback, engaging thoughtfully with the reviewers' comments can only help strengthen the manuscript. By remaining open-minded and professional throughout the process, I can ensure that my work benefits from the insights of others while still accurately representing my ideas. In doing so, I can ensure that the final version of my work is as polished as possible.
 
 ------------------------------------------------------------------------
+
+#### 23 September 2024
+
+Predatory journals significantly impact society, especially in disseminating false information. When inaccurate data is later disproven, the public can become disillusioned with science as a whole. Some go so far as to distrust the entire medical science community, fueling a growing anti-science sentiment. Even if a study is retracted and scientists attempt to correct the error, the initial damage from publishing faulty research leaves a lasting impact. Often, people cling to claims that speak to biases or political beliefs.
+
+One particular study had that impact on the field of virology. A study titled "The safety of COVID-19 vaccinations---We should rethink the policy" was published in 2021 in an MDPI journal called *Vaccines*. This paper falsely concluded that the COVID-19 vaccine kills two people for every three that it saves. In the period between its publication and retraction, the paper found a significant audience on social media, where it's claims spread widely. The link to the article was shared thousands of times across social media (Fichera, 2021). Conservative commentators took the eventual retraction as a manipulative attempt at concealing the "truth". It was nicknamed "The Vaccine Study You're Not Allowed To See".
+
+As mentioned in my presentation, MDPI is frequently associated with predatory journals and unethical publishing. In this case, the consequences were significant. This highlights the importance of rigorous peer review and maintaining high standards in scientific publishing.
+
+**Sources**
+
+Fichera, A. (2021, July 2). Flawed paper on COVID-19 vaccines, deaths spreads widely before retraction. *FactCheck.org*. <https://www.factcheck.org/2021/07/scicheck-flawed-paper-on-covid-19-vaccines-deaths-spreads-widely-before-retraction/>
+
+Vaccines Editorial Office. (2021). RETRACTED: Walach et al. The safety of COVID-19 vaccinations---We should rethink the policy. *Vaccines*, *9*(7), 729. <https://doi.org/10.3390/vaccines907072>
+
+------------------------------------------------------------------------
