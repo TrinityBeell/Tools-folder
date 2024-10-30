@@ -120,3 +120,13 @@ If I select a journal based on credibility, my primary goal is to avoid predator
 At the end of the day, I define an *ethical journal* as one that does not exploit scientists and does not threaten the integrity of science with predatory publishing models.
 
 ------------------------------------------------------------------------
+
+#### 30 October 2024
+
+------------------------------------------------------------------------
+
+Assuming I'm in a kind and generous mood, I'd first empathize with that concern. I'd discuss how some skepticism in reviewing scientific findings is usually reasonable and vetting conclusions from other scientists can lead to a deeper understanding of the material. However, I would also emphasize that being overly skeptical without cause only to confirm existing biases is detrimental to one's understanding. This would usually be part of the discussion where they bring up an anecdotal news headline they remember from Facebook or FOX News. Regardless of the perceived validity of the claim, I'd skirt around it with some sort of general non-declarative statement. Unless it's virology or animal science, I'm unlikely informed enough to make a curated corrective argument that they'll accept.
+
+I would redirect the conversation to discuss my main points on data integrity, the role of hypothesis, peer review, transparency, and reproducibility. I would first bring up data integrity. When research findings are based on accurate data with transparent acquisition methods, the conclusions are much more likely to hold up to scrutiny. I would also emphasize the role of a well-defined hypothesis because it guides statistical analysis and interpretation. I would finally emphasize the concepts of reproducibility and peer review. If my analysis can be repeated with the same conclusion, and others review the methods, that adds to the validity of my conclusion.
+
+------------------------------------------------------------------------
