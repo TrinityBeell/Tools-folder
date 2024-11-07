@@ -130,3 +130,17 @@ Assuming I'm in a kind and generous mood, I'd first empathize with that concern.
 I would redirect the conversation to discuss my main points on data integrity, the role of hypothesis, peer review, transparency, and reproducibility. I would first bring up data integrity. When research findings are based on accurate data with transparent acquisition methods, the conclusions are much more likely to hold up to scrutiny. I would also emphasize the role of a well-defined hypothesis because it guides statistical analysis and interpretation. I would finally emphasize the concepts of reproducibility and peer review. If my analysis can be repeated with the same conclusion, and others review the methods, that adds to the validity of my conclusion.
 
 ------------------------------------------------------------------------
+
+#### 07 November 2024
+
+------------------------------------------------------------------------
+
+After giving it some thought, I'm struggling to develop a feasible citizen science project regarding influenza surveillance.
+
+My first thought was a project on the self-reported prevalence and occurrence of Influenza A infections in commercial and backyard farms in the United States. It is tricky, though, since typically, these diagnostics are not done on-site, and samples are sent to a lab for PCR (to diagnose current infections from nasal swab samples) or ELISA (to identify past infections by analyzing antibodies in the blood). Additionally, farmers would not readily share this information unprompted. Inconsistencies in sample collection can muddy these results as well.
+
+My second thought was a citizen science project that would monitor the prevalence, spread, and virulence of influenza in (human) communities. An app could collect anonymized data on symptoms, disease progression, risk factors, illness duration, complications, and potential environmental exposures. Patients would self-report if they wanted to help the cause. This idea also has challenges---the first would be participant engagement. There would probably be a need for a lot of marketing for the project to get enough data to make the study significant. Additionally, there are problems with self-reporting. The nature of the illness described would help scientists decide whether or not to classify the illness as "influenza-like" without having any of the classical diagnostic tools. If the patient describes the illness as being more severe than it actually is or progressed much faster than it did, then the data point could falsely point to influenza when it otherwise could be classified as a common cold.
+
+In conclusion, I would not use citizen science in my projects. In my opinion, due to the nature of virological surveillance, the data assembled would have the potential to be anecdotal and borderline useless.
+
+------------------------------------------------------------------------
